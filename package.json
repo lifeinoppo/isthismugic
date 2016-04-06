@@ -1,0 +1,24 @@
+{
+  "name": "isthismusic",
+  "version": "0.0.1",
+  "description": "make judgement whether the keyword provided relates to a piece of music.",
+  "main": "index.js",
+  "scripts": {
+    "test": "isthismusic?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lifeinoppo/isthismusic.git"
+  },
+  "keywords": [
+    "music",
+    "isthis",
+    "node"
+  ],
+  "author": "Teslar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lifeinoppo/isthismusic/issues"
+  },
+  "homepage": "https://github.com/lifeinoppo/isthismusic#readme"
+}
